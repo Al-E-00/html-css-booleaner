@@ -49,3 +49,30 @@ thead{
 .blue {
     background-color: rgb(184, 237, 255);
 }
+
+.footer-write {
+    margin-top: 20px;
+    margin-left: 5px;
+    color: rgb(148, 148, 148);
+    font-weight: 600;
+}
+
+
+.footer-image {
+    height: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.first.footer-image {
+    background-image: url(../img/monitor.jpg);
+}
+
+.second.footer-image {
+    background-image: url(../img/graph.jpg);
+}
+
