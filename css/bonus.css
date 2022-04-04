@@ -1,0 +1,12 @@
+main {
+    width: 70%;
+    margin: auto;
+}
+
+.first-image{
+    width: 45%;
+}
+.second-image{
+    width: 45%;
+    height: 242px;
+}
